@@ -1,0 +1,23 @@
+Name: 
+	Benjamin Aston
+Assignment #: 
+	1
+Lab Day and Time: 
+	Wednesday @ 7:30PM
+Lab Instructor: 
+	Nannan Wen
+Program Due Date: 
+	Monday, February 8
+Handed In Date:
+	 2/7/2019 
+source code files: 
+	Set.java
+	Profile.java
+	SocialClient.java
+Other files : 
+	N/A
+Compile Without Errors: 
+	yes
+Run Without Errors: 
+	yes
+Additional Comments:
