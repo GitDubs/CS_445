@@ -1,0 +1,22 @@
+Name: 
+	Benjamin Aston
+Assignment #: 
+	5
+Lab Day and Time: 
+	Wednesday @ 7:30PM
+Lab Instructor: 
+	Nannan Wen
+Program Due Date: 
+	Sunday, March 13
+Handed In Date:
+	 4/19/2016 
+source code files: 
+	TernaryTree.java
+	TernaryNode.java
+Other files : 
+	none
+Compile Without Errors: 
+	yes
+Run Without Errors: 
+	yes
+Additional Comments:
