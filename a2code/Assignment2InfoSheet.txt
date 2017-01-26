@@ -1,0 +1,26 @@
+Name: 
+	Benjamin Aston
+Assignment #: 
+	2
+Lab Day and Time: 
+	Wednesday @ 7:30PM
+Lab Instructor: 
+	Nannan Wen
+Program Due Date: 
+	Monday, February 22 @ 11:59pm
+Handed In Date:
+	 2/21/2019 
+source code files: 
+	ExpressionEvaluator.java
+	IllegalOperatorException.java
+	Stack.java
+	StackInterface.java
+Other files : 
+	N/A
+Compile Without Errors: 
+	yes
+Run Without Errors: 
+	yes
+Additional Comments:
+	1) Works with or without spaces between tokens
+	2) Processes one character at a time, doesn't technically use tokens
